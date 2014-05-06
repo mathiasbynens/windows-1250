@@ -64,6 +64,10 @@ require(
 
 A string representing the semantic version number.
 
+### `windows1250.labels`
+
+An array of strings, each representing a [label](http://encoding.spec.whatwg.org/#label) for this encoding.
+
 ### `windows1250.encode(input, options)`
 
 This function takes a plain text string (the `input` parameter) and encodes it according to windows-1250. The return value is a ‘byte string’, i.e. a string of which each item represents an octet as per windows-1250.
