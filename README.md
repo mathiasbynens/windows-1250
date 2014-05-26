@@ -1,4 +1,4 @@
-# windows-1250 [![Build status](https://travis-ci.org/mathiasbynens/windows-1250.svg?branch=master)](https://travis-ci.org/mathiasbynens/windows-1250) [![Dependency status](https://gemnasium.com/mathiasbynens/windows-1250.svg)](https://gemnasium.com/mathiasbynens/windows-1250)
+# windows-1250 [![Build status](https://travis-ci.org/mathiasbynens/windows-1250.svg?branch=master)](https://travis-ci.org/mathiasbynens/windows-1250) [![Code coverage status](http://img.shields.io/coveralls/mathiasbynens/windows-1250/master.svg)](https://coveralls.io/r/mathiasbynens/windows-1250) [![Dependency status](https://gemnasium.com/mathiasbynens/windows-1250.svg)](https://gemnasium.com/mathiasbynens/windows-1250)
 
 _windows-1250_ is a robust JavaScript implementation of [the windows-1250 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#windows-1250).
 
