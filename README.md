@@ -1,4 +1,4 @@
-# windows-1250 [![windows-1250 on npm](https://img.shields.io/npm/v/windows-1250)](https://www.npmjs.com/package/windows-1250)
+# windows-1250 [![Build status](https://github.com/mathiasbynens/windows-1250/workflows/run-checks/badge.svg)](https://github.com/mathiasbynens/windows-1250/actions?query=workflow%3Arun-checks) [![windows-1250 on npm](https://img.shields.io/npm/v/windows-1250)](https://www.npmjs.com/package/windows-1250)
 
 _windows-1250_ is a robust JavaScript implementation of [the windows-1250 character encoding as defined by the Encoding Standard](https://encoding.spec.whatwg.org/#windows-1250).
 
